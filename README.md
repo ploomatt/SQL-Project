@@ -6,8 +6,9 @@ Description:
 #### Motivation
 >This project aims to leverage SQL and data analysis techniques to examine key COVID-19 statistics from 2020 and 2021, including case counts, deaths, and vaccination rates. By filtering and querying large datasets, this analysis seeks to uncover valuable insights into the global distribution of the virus, the effectiveness of public health measures, and the relationship between vaccination rates and infection trends.
 #### Technologies Used
->SQL: Data querying and analysis using SQL queries for aggregating, filtering, and transforming COVID-19 data.<br>
->Database: Relational database management system (Microsoft Server Management Studio) for data storage and manipulation.<br>
+>- SQL: Data querying and analysis using SQL queries for aggregating, filtering, and transforming COVID-19 data.<br>
+>- Database: Relational database management system (Microsoft Server Management Studio) for data storage and manipulation.<br>
+>- Data Cleaning: CSV handling and organizing using Microsoft Excel.
 #### Features
 >The queries used in this project are designed to explore various connections between key COVID-19 metrics.
 >>- By comparing Total COVID cases vs. Total Deaths, the likelihood of death upon contraction is analyzed.<br>
