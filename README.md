@@ -16,9 +16,10 @@ Description:
 >>- Data is put into perspective of population by calculating the percentage of 
 ## Data
 #### Data Source
+>Covid 19 Data from the University of Oxford and Global Change Data Lab.<br>
 >https://ourworldindata.org/covid-deaths
 ### Data Structure
->
+>Main Data 
 
 
 
