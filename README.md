@@ -17,9 +17,14 @@ Description:
 ## Data
 #### Data Source
 >Covid 19 Data from the University of Oxford and Global Change Data Lab.<br>
->https://ourworldindata.org/covid-deaths
+>>https://ourworldindata.org/covid-deaths
 ### Data Structure
->Main Data 
+>The data is structured in a relational format, with each record representing COVID-19 statistics for a specific country or region on a given date. The key columns in the dataset are:<br>
+>> - Location: Represents the country or region for which the data is recorded.<br>
+>> - Population: The total population of the country or region.<br>
+>> - Continent: The continent to which the location belongs.<br>
+>> - Date: The specific date when the data was recorded, allowing for time-series analysis.<br>
+>> - New_vaccinations: The number of new vaccinations administered on the recorded date.<br>
 
 
 
