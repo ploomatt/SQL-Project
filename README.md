@@ -1,4 +1,4 @@
-# SQL-Project
+# Relational Database Analysis: COVID-19 Case Study
 Description:
 >This SQL project focuses on analyzing international COVID-19 statistics for the years 2020 and 2021.
 
