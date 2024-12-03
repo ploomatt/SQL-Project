@@ -10,7 +10,12 @@ Description:
 >>- By comparing Total COVID cases vs. Total Deaths, the likelihood of death upon contraction is analyzed.<br>
 >>- Queries also examine the percentage of the population contracted by COVID<br>
 >>- Identifying countries with the highest infection rates relative to their population, and ranks continents by the highest death count, helping to reveal patterns and disparities in the impact of the pandemic globally.<br>
-
+>>- Data is put into perspective of population by calculating the percentage of 
+## Data
+#### Data Source
+>https://ourworldindata.org/covid-deaths
+### Data Structure
+>
 
 
 
