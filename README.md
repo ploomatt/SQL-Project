@@ -32,6 +32,9 @@ Description:
 >> - DeathPercentage: Indicates the percentage of individuals who have died as a result of COVID-19, calculated by dividing the total number of deaths by the total number of confirmed cases and multiplying by 100.<br>
 >> - TotalDeathCount: Represents the cumulative number of deaths due to COVID-19 across all recorded dates.<br>
 >> - PercentPopulationInfected: Shows the percentage of the population that has contracted COVID-19, calculated by dividing the total number of COVID-19 cases by the total population and multiplying by 100.<br>
+## Results and Insights
+>The project uncovers significant trends in COVID-19 cases, deaths, and vaccinations across different countries and regions.<br>
+>Key insights include the relationship between vaccination progress and the reduction in COVID cases, as well as the countries with the highest infection and death rates.
 
 
 
