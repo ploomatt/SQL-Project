@@ -17,7 +17,8 @@ Description:
 ## Data
 #### Data Source
 >Covid 19 Data from the University of Oxford and Global Change Data Lab.<br>
->>https://ourworldindata.org/covid-deaths
+>>https://ourworldindata.org/covid-deaths <br>
+>The data used will be attached below as CovidDeathsXL and CovidVaccinations as a csv file
 ### Data Structure
 >The data is structured in a relational format, with each record representing COVID-19 statistics for a specific country or region on a given date. The key columns in the dataset are:<br>
 >> - Location: Represents the country or region for which the data is recorded.<br>
@@ -35,6 +36,8 @@ Description:
 ## Results and Insights
 >The project uncovers significant trends in COVID-19 cases, deaths, and vaccinations across different countries and regions.<br>
 >Key insights include the relationship between vaccination progress and the reduction in COVID cases, as well as the countries with the highest infection and death rates.
+
+
 
 
 
