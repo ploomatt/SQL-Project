@@ -31,7 +31,7 @@ Where location like '%states%' and continent <> ''
 order by location, CAST(date AS DATE);
 
 
--- Looking at Countries with Highest Infection Rate compared to population
+--Look at Countries with Highest Infection Rate compared to population
 SELECT 
 	Location, 
 	Population, 
@@ -43,7 +43,7 @@ GROUP BY Location, Population
 ORDER BY PercentPopulationInfected desc;
 
 
--- Showing Countries with Highest Death Count per Population(Countries)
+--Show Countries with Highest Death Count per Population(Countries)
 Select 
 	Location, 
 	Population, 
@@ -54,7 +54,7 @@ GROUP BY location, population
 ORDER BY TotalDeathCount desc;
 
 
---Showing continents with the highest death count
+--Show continents with the highest death count
 Select 
 	continent,
 	MAX(cast(total_deaths as int)) as TotalDeathCount
