@@ -166,7 +166,7 @@ ORDER BY Location ASC, Date ASC;
 DROP TABLE #PercentPopulationVaccinated;
 
 
---Creating View to store data for potential visualizations
+--Create View to store data for potential visualizations
 Create View PercentPopulationVaccinated as
 Select 
 	dea.continent, 
